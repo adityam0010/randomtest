@@ -1,5 +1,4 @@
-"this is a new file" 
-This is being edited in remote repo
-New line is added
-Another line is added
-i'm going to merge this with main branch
+'This is another file changed by another user' 
+This is a new line 
+This is a second line 
+This is a third line 
